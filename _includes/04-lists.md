@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# SKILLS
+
+this are my _list_ programing languages
+*java
+*html
+*javascript
+
